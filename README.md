@@ -23,15 +23,6 @@
 | AI Developer Intern | **Scotiabank** | Jan – Apr 2026 |
 | Data Engineer Intern | **Ericsson** | Sep – Dec 2025 |
 
-### Featured projects
-
-**🎧 [Spotify Refine](https://github.com/AhmadWali04/Spotify_Refine)**
-Sorts my ~3,000 liked songs into the playlists I already have, based on how each song sounds. Each track becomes a feature vector, and the app uses linear algebra to match songs to playlists.
-*Next:* pull features straight from the audio, represent the music mathematically, and train a model on my labelled playlists to predict where new songs belong.
-
-**📊 Job Hunt Dashboard**
-A Google Sheets and Apps Script dashboard that pulls in internship postings and tracks my applications and outreach to recruiters and alumni in one place.
-
 **🍳 Ahmad's Cookbook**
 My personal recipe collection, built from Instagram story highlights and organized by meal type. I'm moving it from Notion to a self-hosted static site with gallery and table views and tags.
 
